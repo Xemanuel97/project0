@@ -6,7 +6,7 @@ h1{
 	text-align:center;
 	padding:10px;
 }
-div {
+.cabecera {
 	background-image: url("https://image.shutterstock.com/image-photo/bloody-grungy-wall-background-600w-325931672.jpg");
 	text-align:center;
 	width:40%;
