@@ -1,3 +1,6 @@
+body{
+	background-color: #1E2C7E;
+}
 h1{ 	
 	color:white;
 	text-align:center;
@@ -10,11 +13,12 @@ div {
 	margin-right:25%;
 	margin-left:25%;
 }
-h2{ 
+h2{
+	color:white;
 	text-align:center;
 }
 
-img{	margin-left:5%;
-	width:90%;
+img{	margin-left:10%;
+	width:80%;
 
 }
