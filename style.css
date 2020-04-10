@@ -1,5 +1,5 @@
 body{
- 	background-color: #F36666;	
+ 	background-image: url("fondo.jpg");
 }
 h1{ 	
 	color:white;
@@ -16,4 +16,13 @@ h1{
 img{	margin-left:10%;
 	width:80%;
 
+}
+a {
+	color: white;
+	padding: 4.5%;
+
+}
+p{
+	margin-left:10%;
+	margin-right:10%;
 }
