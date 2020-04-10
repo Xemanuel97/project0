@@ -1,0 +1,18 @@
+body{
+ 	background-color: #F36666;	
+}
+h1{ 	
+	color:white;
+	text-align:center;
+	padding:10px;
+}
+.cabecera {
+	background-image: url("https://image.shutterstock.com/image-photo/bloody-grungy-wall-background-600w-325931672.jpg");
+	text-align:center;
+	width:40%;
+	margin-right:30%;
+	margin-left:30%;
+}
+.Fperfil {
+	width: 10%;
+}
