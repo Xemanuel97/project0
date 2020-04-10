@@ -1,5 +1,5 @@
 body{
-	background-color: #F36666;
+ 	background-color: #F36666;	
 }
 h1{ 	
 	color:white;
@@ -9,9 +9,9 @@ h1{
 div {
 	background-image: url("https://image.shutterstock.com/image-photo/bloody-grungy-wall-background-600w-325931672.jpg");
 	text-align:center;
-	width:50%;
-	margin-right:25%;
-	margin-left:25%;
+	width:40%;
+	margin-right:30%;
+	margin-left:30%;
 }
 img{	margin-left:10%;
 	width:80%;
