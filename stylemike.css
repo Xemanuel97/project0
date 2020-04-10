@@ -17,11 +17,18 @@ a{
 	color:white;
 	margin-left:10%;
 }
-
+.historia{
+	color:white;
+	margin-right:20%;
+	margin-left:20px;
+	text-align:top;
+}
 .Fperfil {
-	width: 10%;
+	margin-left:15px;
+	width: 20%;
+	margin-top:30px;
+	margin-right:10%;
 }
 .rutas {
-	color:#24EEF1;
-
+	color:#24EEF1; 
 }
